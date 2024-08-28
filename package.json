@@ -1,5 +1,5 @@
 {
-  "name": "rickk",
+  "name": "Apan",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js"
   },
-  "author": "Febryy Skuy",
+  "author": "Apan",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
